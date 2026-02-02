@@ -1,0 +1,19 @@
+{
+  "name": "Genting Casino Salford",
+  "short_name": "Genting Casino Salford",
+  "theme_color": "",
+  "background_color": "#22272F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770027455-favicon-27.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
